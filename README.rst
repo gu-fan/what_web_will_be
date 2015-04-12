@@ -1,12 +1,14 @@
-what_web_will_be
+What Web Will Be
 ================
 
 :date: 2015-04-12
 
+WWWB: Light& Dark
 
-English Version: what_web_will_be.rst
 
-Chinese Version: What_web_will_be_cn.rst
+English_Version_
+
+Chinese_Version_
 
 
 Updates will keep going.
@@ -14,3 +16,6 @@ Updates will keep going.
 Thoughts and arguments are welcome
 
 both pull request or forks are welcome too.
+
+.. English_Version: what_web_will_be.rst
+.. Chinese_Version: what_web_will_be_cn.rst
