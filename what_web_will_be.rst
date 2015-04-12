@@ -8,8 +8,6 @@ What Web Will Be
 :slug: what_web_will_be_en
 
 
-THe Light and Dark
-
 A thouhgt experiment about the future of web, started in spring 2015.
 
 https://github.com/Rykka/what_web_will_be

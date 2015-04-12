@@ -7,7 +7,6 @@ Web将会怎样
 :tag: Thoughts, Web, Write
 :slug: what_web_will_be_cn
 
-光&暗
 
 关于Web的未来的一个思想实验, 开始于2015春。
 
